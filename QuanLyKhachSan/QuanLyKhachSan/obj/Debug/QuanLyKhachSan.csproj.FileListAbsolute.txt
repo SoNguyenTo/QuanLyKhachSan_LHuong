@@ -1,0 +1,64 @@
+C:\Users\NGODUCMTA\Desktop\QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormKhachHang.resources
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormLogin.resources
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormSDDV.resources
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Administrator\Desktop\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormDanhSachDatPhong.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormKhachHang.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormLogin.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormMain.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormPhong.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormSDDV.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormThanhToan.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormTrangChu.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormTroGiup.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\HỌC TẬP\NĂM 3\Kỳ 2\THỰC TẬP NHÓM 6\qlks_ttn\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormDanhSachDatPhong.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormKhachHang.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormLogin.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormMain.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormPhong.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormSDDV.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormThanhToan.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormTrangChu.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormTroGiup.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan-Nhom6\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormDanhSachDatPhong.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormKhachHang.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormLogin.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormMain.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormPhong.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormSDDV.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormThanhToan.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormTrangChu.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormTroGiup.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\học\Năm 3 kỳ 2\TT Nhóm\THUCTAPNHOM\THUCTAPNHOM\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
